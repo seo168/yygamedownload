@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://66game.io/sitemap.xml
