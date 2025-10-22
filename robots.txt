@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Allow: /favicon.ico
+Allow: /favicon.svg
+Allow: /favicon-48.png
 
 Sitemap: https://yygame-apk.com/sitemap.xml
