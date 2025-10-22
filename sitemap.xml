@@ -2,7 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yygame-apk.com/</loc>
-    <lastmod>2025-10-07</lastmod>
+    <lastmod>2025-10-09</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <!-- Tambah URL lain kalau ada, misal halaman panduan -->
 </urlset>
