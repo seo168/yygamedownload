@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://66game.io/sitemap.xml
+Sitemap: https://yygame-apk.com/sitemap.xml
